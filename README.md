@@ -13,4 +13,4 @@
 </p>
 
 ### 📊 GitHub Stats
-![내 스탯 카드](https://github-readme-stats.vercel.app/api?username=[본인아이디]&show_icons=true&theme=radical)
+![내 스탯 카드](https://github-readme-stats.vercel.app/api?username=[Mookyung07]&show_icons=true&theme=radical)
