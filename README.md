@@ -4,6 +4,8 @@
 - 🌱 현재 **[AI.SW]** 를 배우고 있습니다.
 - 💻 주로 사용하는 언어: **Python, C언어**
 - 📧 연락처: **[jangmookyung07@gmail.com]**
+- <img width="498" height="498" alt="InstagramMycrxnGIF" src="https://github.com/user-attachments/assets/f6de50b6-ab4e-41ce-a914-6d842ca098c9" /> 인스타: wkdranrud
+
 
 ### 🛠 Tech Stack
 <p>
